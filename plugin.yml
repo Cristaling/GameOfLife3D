@@ -1,0 +1,8 @@
+name: GameOfLife
+main: me.cristaling.GameOfLife.GameOfLife
+version: 1.0
+author: cristaling
+commands:
+   gol:
+      description: GameOfLife commands
+      usage: /<command>
